@@ -8,9 +8,7 @@
 - 💬 궁금한 것이 있으면 언제든지 물어봐주세요!
 
 ## 저와 연락하기
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeonghoonseok/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-portfolio-url.com/)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naver.com/hnsk98)
 
 ## 보유 기술
 - Java
