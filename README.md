@@ -21,6 +21,3 @@
 
 ## 가장 많이 사용한 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoonSeok&layout=compact&theme=radical)
-
-## 기여 그래프
-![기여 그래프](https://activity-graph.herokuapp.com/graph?username=JeongHoonSeok&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
