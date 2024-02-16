@@ -23,4 +23,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoonSeok&layout=compact&theme=radical)
 
 ## 기여 그래프
+<details>
+<summary>기여 그래프</summary>
+  
 ![기여 그래프](https://activity-graph.herokuapp.com/graph?username=JeongHoonSeok&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+</details>
