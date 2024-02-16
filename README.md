@@ -26,13 +26,13 @@
 ![기여 그래프](https://activity-graph.herokuapp.com/graph?username=JeongHoonSeok&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <!-- productive-box starts -->
-<!-- https://github.com/MaximAbramchuck/awesome-README-templates -->
+<!-- https://github.com/maxam2017/productive-box -->
 <p align="center">
-  <a href="https://github.com/username">
-    <img src="https://github.com/username/productive-box/blob/master/productive-box.svg" alt="productive-box" />
+  <a href="https://github.com/JeongHoonSeok">
+    <img src="https://github.com/JeongHoonSeok/productive-box/blob/master/productive-box.svg" alt="productive-box" />
   </a>
   <h3 align="center">📊 Weekly development breakdown</h3>
   <p align="center">A tool to display GitHub user activity summary in the form of a widget on your website or blog.</p>
 </p>
-
 <!-- productive-box ends -->
+
