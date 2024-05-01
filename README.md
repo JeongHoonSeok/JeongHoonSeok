@@ -22,5 +22,5 @@
 ## 가장 많이 사용한 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoonSeok&layout=compact&theme=radical)
 
-## 백준 티어
+## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgnstjr93)](https://solved.ac/wjdgnstjr93/)
