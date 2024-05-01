@@ -23,4 +23,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoonSeok&layout=compact&theme=radical)
 
 ## 백준 티어
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={wjdgnstjr93})](https://solved.ac/{wjdgnstjr93})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgnstjr93)](https://solved.ac/wjdgnstjr93/)
