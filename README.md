@@ -26,4 +26,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgnstjr93)](https://solved.ac/wjdgnstjr93/)
 
 ## 방문자
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHoonSeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHoonSeok&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Fhnsk98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fa5a1af23d3b1442cb8b8e70c720214a2&count_bg=%23E1D53B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://hits.seeyoufarm.com)
