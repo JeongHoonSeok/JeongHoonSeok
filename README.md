@@ -9,6 +9,7 @@
 
 ## 저와 연락하기
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naver.com/hnsk98)
+[![Notion](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white)](https://www.notion.so/a5a1af23d3b1442cb8b8e70c720214a2)
 
 ## 보유 기술
 - Java
